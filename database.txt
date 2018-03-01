@@ -1,0 +1,8 @@
+student,f_name,l_name,password
+jim,Jim,Smith,12345
+jane,Jane,Doe,qwerty
+admin,Mike,Jones,secret
+djones,David,Jones,passw0rd
+sue,Sue,Thymes,nopass
+tluser,Tim,Luser,superpass
+loser1,Timmy,Jerkins,loser123
